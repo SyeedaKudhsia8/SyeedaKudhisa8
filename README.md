@@ -16,12 +16,15 @@ Hey there!
 
 
 <div id="badges">
-       <a href="https://www.linkedin.com/in/syeeda">
+  <a href="https://www.linkedin.com/in/syeeda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
-  
-  
+  <a href="https://medium.com/@syeedaf/">
+    <img height="30" src="https://img.shields.io/badge/Medium-10000E"/>
+</a>
+</div>
+
+
   I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
  
 
@@ -54,17 +57,10 @@ Hey there!
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SyeedaKudhsia8&show_icons=true&theme=dark"/>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyeedaKudhsia8&layout=compact&theme=vision-friendly-dark)](https://github.com/SyeedaKudhsia8/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 

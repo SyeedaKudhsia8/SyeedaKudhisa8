@@ -28,7 +28,7 @@ Hey there!
   I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
  
 
-- :TMLC: I’m currently doing my internship in TheMachineLearningCompany
+- :TMLC: I’m currently doing my internship at TheMachineLearningCompany
 
 - :Medium: Exploring Technical Content Writing.
 
